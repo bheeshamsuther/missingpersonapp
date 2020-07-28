@@ -1,0 +1,43 @@
+{
+  "GetStart": {
+    "1": "Get Started"
+  },
+  "Why": {
+    "1": "For watching THis video"
+  },
+  "Home": {
+    "1": "Home",
+    "city": "Search By City",
+    "year": "Search By Year",
+    "found" : "Person Not Fount"
+  },
+  "contact": {
+    "title": "ADD A MISSING PERSON ",
+    "name": "Name",
+    "dateofbirth": "Date Of Birth",
+    "age": "Age",
+    "city": "City",
+    "height": "Height",
+    "eyesColor": "Eyes Color",
+    "missingDate": "Missing Date",
+    "lastLocation": "Last Seen",
+    "file": "Cheose File",
+    "contact": "Contact No",
+    "description": "Description / Summary / Events",
+    "button": "Add Person"
+  },
+  "detail": "All Detail",
+  "contactus": "Contact Us",
+  "addperson": "Add Person",
+
+  "lang": {
+    "en": "English",
+    "fr": "french",
+    "ht": "Haitian Creole"
+  },
+  "navigation" : {
+    "home" : "Home" ,
+    "Addperson" : "Add Person"
+  },
+  "detailbtn" : "See More"
+}

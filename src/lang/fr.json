@@ -1,0 +1,43 @@
+{
+  "GetStart": {
+    "1": "Commencer"
+  },
+  "Why": {
+    "1": "Pour regarder la vidéo"
+  },
+  "Home": {
+    "1": "Accueil",
+    "city": "Recherche par ville",
+    "year": "Recherche par année",
+    "found": "Personne introuvable"
+  },
+  "contact": {
+    "title": "ajouter une personne disparue",
+    "name": "Nom",
+    "dateofbirth": "Date de naissance",
+    "age": "Âge",
+    "city": "Ville",
+    "height": "la taille",
+    "eyesColor": "Couleur des yeux",
+    "missingDate": "Date manquante",
+    "lastLocation": "Dernière vue",
+    "file": "Fichier Cheose",
+    "contact": "No de contact",
+    "description": "Description / Résumé / Événements",
+    "button": "Ajouter une personne"
+  },
+  "contactus": "Nous contacter",
+  "detail": "Tous les détails",
+  "addperson": "Ajouter une personne",
+
+  "lang": {
+    "en": "anglaise",
+    "fr": "français",
+    "ht": "Créole haïtien"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "Addperson": "Ajouter une personne"
+  },
+  "detailbtn": "En savoir plus"
+}
